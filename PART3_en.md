@@ -1,9 +1,7 @@
-Here is the fully corrected **Unit 3** content in English Markdown, incorporating all fixes (including trigonometric inequalities, phase shift handling, atan2 for polar coordinates, etc.).
-
----
-
 # 📐 UNIT 3: Trigonometric and Polar Functions
-
+- 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
+- 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
+- This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
 > **AP Exam Weighting:** $30$–$35\%$  
 > **Recommended Class Periods:** $35$–$50$  
 > **Total Topics:** $15$ (3.1 through 3.15)
